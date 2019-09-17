@@ -1,0 +1,28 @@
+{
+  "name": "msviewerjs",
+  "version": "1.0.0",
+  "description": "Mass Spectrum Viewer for Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymkang-hub/MSViewerJS.git"
+  },
+  "keywords": [
+    "Mass",
+    "Spectrum",
+    "Viewer",
+    "Javascript"
+  ],
+  "author": "Young-Mook Kang <ymkang@thylove.org> (https://www.thylove.org/ymkang/)",
+  "contributors": [
+
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ymkang-hub/MSViewerJS/issues"
+  },
+  "homepage": "https://github.com/ymkang-hub/MSViewerJS#readme"
+}
