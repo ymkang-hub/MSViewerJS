@@ -16,13 +16,14 @@
     "Viewer",
     "Javascript"
   ],
-  "author": "Young-Mook Kang <ymkang@thylove.org> (https://www.thylove.org/ymkang/)",
-  "contributors": [
-
-  ],
+  "author": "Young-Mook Kang <ymkang@thylove.org> (https://github.com/youngmook)",
+  "contributors": [],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ymkang-hub/MSViewerJS/issues"
   },
-  "homepage": "https://github.com/ymkang-hub/MSViewerJS#readme"
+  "homepage": "https://github.com/ymkang-hub/MSViewerJS#readme",
+  "dependencies": {
+    "devextreme": "^19.1.6"
+  }
 }
